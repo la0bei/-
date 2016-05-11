@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">地理大发现</string>
+    <string name="question_beijing">北京是中国的最大的城市.</string>
+    <string name="question_usa">旧金山是美国第二大城市</string>
+    <string name="question_uk">北爱尔兰是英国的一部分</string>
+    <string name="question_argentina">阿根廷的官方语言是葡萄牙语</string>
+    <string name="question_beikai">贝加尔湖是世界上最深的湖</string>
+    <string name="question_sydney">悉尼是澳大利亚的首都</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="next_button">下一题</string>
+    <string name="correct_toast">恭喜!</string>
+    <string name="incorrect_toast">再想想!</string>
+</resources>
